@@ -4,7 +4,7 @@
   <div class="row">
     <span>GitHub</span>
     <hr />
-    <a class="link" href="https://github.com/nayefrehman">@nayefrehman</a>
+    <a class="link" href="https://github.com/naifrehman">@naifrehman</a>
   </div>
   <div class="row">
     <span>Email</span>
