@@ -61,16 +61,26 @@
 
 <div class="layout-md text-lg space-y-14">
   <div class="space-y-5">
+    <h3>About Me</h3>
     <p>
-     I'm a Computer Engineering student at Queen's University, passionate about data science, software development, and applied engineering projects. I love building things that solve real problems and make an impact, whether it's a software tool, a data analysis project, or an engineering design.
+      * based in Mississauga (GTA), ON Canada
+      * B.ASc in Computer Engineering student @ Queen's University 
+      * Strong interest in software development, data science, large-scale systems, and ml
     </p>
+    
+      <h3>Experiences</h3>
+      <p>
+        * engineering (data) intern @ SSCI (summer 2025)
+        * experienced in python, C, java, javascript, html, css
+        * tools/frameworks: git, vscode, sql, react, numpy, pandas, scikit-learn, seaborn, matplotlib
+      </p>
 
-    <p>
-     Through coursework and personal projects, I’ve developed practical skills in problem-solving, analysis, and building technical solutions. I like to learn by doing. Whether that’s experimenting with new tools, working through challenging concepts, or building projects that push my understanding further.
-    </p>
-    <p>
-I’m motivated by the opportunity to create value for people and businesses, and I’m always looking for ways to apply what I’m learning in real-world contexts. Currently, I’m seeking opportunities where I can continue to grow, gain hands-on experience, and contribute to meaningful work.</p>
-    <p>Other interests: Basketball (Big Wemby Fan), Running, Reading (Atomic Habits), video games, badminton.</p>
+      <h3>Other Interests:</h3>
+      <p>
+        * basketball (Wemby 👽), cycling, working out, 
+        * Reading (Atomic Habits)
+        * chess 
+      </p>
   </div>
 <!--
   <div class="leading-snug space-y-4">
@@ -154,7 +164,7 @@ I’m motivated by the opportunity to create value for people and businesses, an
     <!-- <p>This is what I look like:</p> -->
     <img
       alt="Naif Rehman Headshot"
-      src="/assets/images/naif.jpg"
+      src="/assets/images/.jpg"
     />
   </div>
 </div>
