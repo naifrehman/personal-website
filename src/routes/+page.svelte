@@ -75,7 +75,7 @@
         <li>tools/frameworks: git, vscode, sql, react, numpy, pandas, scikit-learn, seaborn, matplotlib</li>
       </ul>
 
-      <h3>Other Interests:</h3>
+      <h3><b>Other Interests:</b></h3>
       <ul>
         <li>basketball (Wemby 👽), cycling, working out</li>
         <li>Reading (Atomic Habits, 1984)</li> 
