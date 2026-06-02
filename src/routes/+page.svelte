@@ -62,18 +62,18 @@
 <div class="layout-md text-lg space-y-14">
   <div class="space-y-5">
     <h3>About Me</h3>
-    <p>
-      * based in Mississauga (GTA), ON Canada
-      * B.ASc in Computer Engineering student @ Queen's University 
-      * Strong interest in software development, data science, large-scale systems, and ml
-    </p>
+    <ul>
+      <li>Based in Mississauga (GTA), ON, Canada</li>
+      <li>B.ASc in Computer Engineering @ Queen's University</li>
+      <li>Interested in software development, data science, large-scale systems, and ML</li>
+    </ul>
     
       <h3>Experiences</h3>
-      <p>
-        * engineering (data) intern @ SSCI (summer 2025)
-        * experienced in python, C, java, javascript, html, css
-        * tools/frameworks: git, vscode, sql, react, numpy, pandas, scikit-learn, seaborn, matplotlib
-      </p>
+      <ul>
+        <li>engineering (data) intern @ SSCI (summer 2025)</li>
+        <li>experienced in python, C, java, javascript, html, css</li>
+        <li>tools/frameworks: git, vscode, sql, react, numpy, pandas, scikit-learn, seaborn, matplotlib</li>
+      </ul>
 
       <h3>Other Interests:</h3>
       <p>
@@ -160,13 +160,7 @@
     <p>Other interests: math, physics, reading, photography, and biking.</p>
   </div>
 -->
-  <div class="space-y-5">
-    <!-- <p>This is what I look like:</p> -->
-    <img
-      alt="Naif Rehman Headshot"
-      src="/assets/images/.jpg"
-    />
-  </div>
+
 </div>
 
 <style lang="postcss">
