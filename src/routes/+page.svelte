@@ -61,14 +61,14 @@
 
 <div class="layout-md text-lg space-y-14">
   <div class="space-y-5">
-    <h3>About Me</h3>
+    <h2><b>About Me:</b></h2>
     <ul>
       <li>Based in Mississauga (GTA), ON, Canada</li>
       <li>B.ASc in Computer Engineering @ Queen's University</li>
       <li>Interested in software development, data science, large-scale systems, and ML</li>
     </ul>
     
-      <h3>Experiences</h3>
+      <h2><b>Experiences</b></h2>
       <ul>
         <li>engineering (data) intern @ SSCI (summer 2025)</li>
         <li>experienced in python, C, java, javascript, html, css</li>
@@ -76,11 +76,12 @@
       </ul>
 
       <h3>Other Interests:</h3>
-      <p>
-        * basketball (Wemby 👽), cycling, working out, 
-        * Reading (Atomic Habits)
-        * chess 
-      </p>
+      <ul>
+        <li>basketball (Wemby 👽), cycling, working out</li>
+        <li>Reading (Atomic Habits, 1984)</li> 
+        <li>chess</li>
+      </ul>
+
   </div>
 <!--
   <div class="leading-snug space-y-4">
